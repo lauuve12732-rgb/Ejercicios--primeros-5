@@ -1,0 +1,11 @@
+.tarjeta {
+    width: 200px;
+    padding: 30px 20px;
+    text-align: center;
+    background-color: #c7cde1;
+    border-radius: 12px;
+    font-family: sans-serif;
+    color: hsl(234, 78%, 15%);
+    cursor: pointer;
+    transition: background-color 0.3s ease
+}
